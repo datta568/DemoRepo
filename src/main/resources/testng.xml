@@ -1,0 +1,7 @@
+<suite name="Free CRM">
+	<test name="CRM Test Cases">
+		<classes>
+		<class name="com.FirstMaven.qa.Test.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>
